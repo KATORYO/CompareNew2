@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>LivingOfCosts-1</string>
+		<key>item</key>
+		<string>タクシー 初乗り</string>
+		<key>pricePeso</key>
+		<string>40</string>
+		<key>priceYen</key>
+		<string>500</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>LivingOfCosts-1</string>
+		<key>item</key>
+		<string>タクシー 3km</string>
+		<key>pricePeso</key>
+		<string>160</string>
+		<key>priceYen</key>
+		<string>1090</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>LivingOfCosts-3</string>
+		<key>item</key>
+		<string>電車 区間 都市 1~3k</string>
+		<key>pricePeso</key>
+		<string>10</string>
+		<key>priceYen</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>LivingOfCosts</string>
+		<key>item</key>
+		<string>水道料金 ローカル 4人 /月</string>
+		<key>pricePeso</key>
+		<string>400</string>
+		<key>priceYen</key>
+		<string>10000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>LivingOfCostsTop</string>
+		<key>item</key>
+		<string>光熱費 ローカル 4人 /月</string>
+		<key>pricePeso</key>
+		<string>1200</string>
+		<key>priceYen</key>
+		<string>11000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Repair-1</string>
+		<key>item</key>
+		<string>通話料金  /分</string>
+		<key>pricePeso</key>
+		<string>50</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Internet-3</string>
+		<key>item</key>
+		<string>ケータイ 通信費</string>
+		<key>pricePeso</key>
+		<string>200</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>LivingOfCosts-2</string>
+		<key>item</key>
+		<string>ガソリン代 1ℓ</string>
+		<key>pricePeso</key>
+		<string>45</string>
+		<key>priceYen</key>
+		<string>130</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBike-4</string>
+		<key>item</key>
+		<string>バイクタクシー 3k</string>
+		<key>pricePeso</key>
+		<string>80</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>LivingOfCosts-7</string>
+		<key>item</key>
+		<string>救急車 都市</string>
+		<key>pricePeso</key>
+		<string>2500</string>
+		<key>priceYen</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>LivingOfCosts-4</string>
+		<key>item</key>
+		<string>駐車場料金 一等地 /時間</string>
+		<key>pricePeso</key>
+		<string>60</string>
+		<key>priceYen</key>
+		<string>600</string>
+	</dict>
+</array>
+</plist>

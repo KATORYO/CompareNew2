@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>Music-2</string>
+		<key>item</key>
+		<string>SONY WALKMAN NWZ-B153 4G</string>
+		<key>pricePeso</key>
+		<string>2249</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Music-2</string>
+		<key>item</key>
+		<string>ウォークマン 128G NW-ZX100 series</string>
+		<key>pricePeso</key>
+		<string>19999</string>
+		<key>priceYen</key>
+		<string>59789</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>MusicTop</string>
+		<key>item</key>
+		<string>DVD ロム</string>
+		<key>pricePeso</key>
+		<string>55</string>
+		<key>priceYen</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Music-1</string>
+		<key>item</key>
+		<string>イヤホン 手元リモコン付</string>
+		<key>pricePeso</key>
+		<string>325</string>
+		<key>priceYen</key>
+		<string>1500</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Music-4</string>
+		<key>item</key>
+		<string>リコーダー</string>
+		<key>pricePeso</key>
+		<string>70</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>MusicUkurere</string>
+		<key>item</key>
+		<string>ウクレレ</string>
+		<key>pricePeso</key>
+		<string>500</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Music-3</string>
+		<key>item</key>
+		<string>ギター</string>
+		<key>pricePeso</key>
+		<string>3000</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Music-6</string>
+		<key>item</key>
+		<string>DVD旧作 1枚購入</string>
+		<key>pricePeso</key>
+		<string>50</string>
+		<key>priceYen</key>
+		<string>980</string>
+	</dict>
+</array>
+</plist>

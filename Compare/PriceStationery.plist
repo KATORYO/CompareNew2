@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>NoImage</string>
+		<key>item</key>
+		<string>ゼブラ ボールペン 替 0.5</string>
+		<key>pricePeso</key>
+		<string>59</string>
+		<key>priceYen</key>
+		<string>101</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StationeryPen</string>
+		<key>item</key>
+		<string>ゼブラ ボールペン 0.5</string>
+		<key>pricePeso</key>
+		<string>59</string>
+		<key>priceYen</key>
+		<string>101</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Stationery-7</string>
+		<key>item</key>
+		<string>鉛筆 3本 6B</string>
+		<key>pricePeso</key>
+		<string>22</string>
+		<key>priceYen</key>
+		<string>102</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StationeryErase</string>
+		<key>item</key>
+		<string>消しゴム モノ </string>
+		<key>pricePeso</key>
+		<string>54</string>
+		<key>priceYen</key>
+		<string>101</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StationeryPopular</string>
+		<key>item</key>
+		<string>ルーズリーフ 60 B6mm</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>280</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Stationery-2</string>
+		<key>item</key>
+		<string>ハサミ </string>
+		<key>pricePeso</key>
+		<string>51</string>
+		<key>priceYen</key>
+		<string>146</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StationeryTape</string>
+		<key>item</key>
+		<string>テープ</string>
+		<key>pricePeso</key>
+		<string>14</string>
+		<key>priceYen</key>
+		<string>147</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StationeryPen</string>
+		<key>item</key>
+		<string>シャーペン モノ</string>
+		<key>pricePeso</key>
+		<string>179</string>
+		<key>priceYen</key>
+		<string>300</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StationeryPen</string>
+		<key>item</key>
+		<string>ボールペン 最安値</string>
+		<key>pricePeso</key>
+		<string>22</string>
+		<key>priceYen</key>
+		<string>86</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StationeryMesu</string>
+		<key>item</key>
+		<string>30cm ジョーギ</string>
+		<key>pricePeso</key>
+		<string>19</string>
+		<key>priceYen</key>
+		<string>300</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Stationery-3</string>
+		<key>item</key>
+		<string>oxfordノート</string>
+		<key>pricePeso</key>
+		<string>99</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StationeryPopular</string>
+		<key>item</key>
+		<string>フィリピン人気 ノート</string>
+		<key>pricePeso</key>
+		<string>42</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Stationery-5</string>
+		<key>item</key>
+		<string>クリヤーブック A4</string>
+		<key>pricePeso</key>
+		<string>69</string>
+		<key>priceYen</key>
+		<string>270</string>
+	</dict>
+</array>
+</plist>

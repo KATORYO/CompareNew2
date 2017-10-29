@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "128AF62B692425B8648EC1E07F7B18E3FB6E8864",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "128AF62B692425B8648EC1E07F7B18E3FB6E8864" : 9223372036854775807,
+    "B6834EE1D0986455084655365FBBADFB51189A57" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "236691E9-8F19-46EF-A3B0-C235A02F11A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "128AF62B692425B8648EC1E07F7B18E3FB6E8864" : "Compare\/",
+    "B6834EE1D0986455084655365FBBADFB51189A57" : "Compare\/Compare\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Compare",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Compare.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KATORYO\/CompareNew.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "128AF62B692425B8648EC1E07F7B18E3FB6E8864"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KATORYO\/Compare.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B6834EE1D0986455084655365FBBADFB51189A57"
+    }
+  ]
+}

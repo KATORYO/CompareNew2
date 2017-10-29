@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13241" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Favorite" representedClassName="Favorite" syncable="YES" codeGenerationType="class">
+        <attribute name="favorite" optional="YES" attributeType="String" minValueString="-1" maxValueString="100" syncable="YES"/>
+        <attribute name="favoriteImage" optional="YES" attributeType="String" minValueString="-1" maxValueString="30" syncable="YES"/>
+        <attribute name="favoriteNo" optional="YES" attributeType="String" minValueString="-1" maxValueString="30" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <entity name="Memo" representedClassName=".Memo" syncable="YES">
+        <attribute name="memo" optional="YES" attributeType="String" minValueString="0" maxValueString="1000" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="saveData" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Favorite" positionX="-36" positionY="27" width="128" height="105"/>
+        <element name="Memo" positionX="-36" positionY="9" width="128" height="75"/>
+    </elements>
+</model>

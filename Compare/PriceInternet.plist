@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>Internet-4</string>
+		<key>item</key>
+		<string>有線オブティカル マウス 1.4</string>
+		<key>pricePeso</key>
+		<string>199</string>
+		<key>priceYen</key>
+		<string>499</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Internet-2</string>
+		<key>item</key>
+		<string>延長LANケーブル 10m</string>
+		<key>pricePeso</key>
+		<string>175</string>
+		<key>priceYen</key>
+		<string>808</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Internet-1</string>
+		<key>item</key>
+		<string>WiFI ルーター10x</string>
+		<key>pricePeso</key>
+		<string>1250</string>
+		<key>priceYen</key>
+		<string>3550</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Internet-5</string>
+		<key>item</key>
+		<string>パソコン キーボード</string>
+		<key>pricePeso</key>
+		<string>450</string>
+		<key>priceYen</key>
+		<string>1429</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Internet-3</string>
+		<key>item</key>
+		<string>ポケットワイファイ</string>
+		<key>pricePeso</key>
+		<string>888</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>AnyHotCoffee</string>
+		<key>item</key>
+		<string>ブレンドコーヒー T</string>
+		<key>pricePeso</key>
+		<string>105</string>
+		<key>priceYen</key>
+		<string>320</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbuckCoffee</string>
+		<key>item</key>
+		<string>ドリップコーヒー G</string>
+		<key>pricePeso</key>
+		<string>120</string>
+		<key>priceYen</key>
+		<string>360</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbuckCoffee</string>
+		<key>item</key>
+		<string>ドリップコーヒー V</string>
+		<key>pricePeso</key>
+		<string>135</string>
+		<key>priceYen</key>
+		<string>400</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksLate</string>
+		<key>item</key>
+		<string>スターバックスラテ T</string>
+		<key>pricePeso</key>
+		<string>130</string>
+		<key>priceYen</key>
+		<string>370</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksLate</string>
+		<key>item</key>
+		<string>スターバックスラテ G</string>
+		<key>pricePeso</key>
+		<string>145</string>
+		<key>priceYen</key>
+		<string>400</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksLate</string>
+		<key>item</key>
+		<string>スターバックスラテ V</string>
+		<key>pricePeso</key>
+		<string>160</string>
+		<key>priceYen</key>
+		<string>440</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksCarameru</string>
+		<key>item</key>
+		<string>キャラメルマキアート T</string>
+		<key>pricePeso</key>
+		<string>155</string>
+		<key>priceYen</key>
+		<string>420</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbuckCoffee</string>
+		<key>item</key>
+		<string>カフェアメリカーノ T</string>
+		<key>pricePeso</key>
+		<string>120</string>
+		<key>priceYen</key>
+		<string>340</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksMoka</string>
+		<key>item</key>
+		<string>ホワイトモカ T</string>
+		<key>pricePeso</key>
+		<string>155</string>
+		<key>priceYen</key>
+		<string>440</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksMoka</string>
+		<key>item</key>
+		<string>カフェモカ T</string>
+		<key>pricePeso</key>
+		<string>145</string>
+		<key>priceYen</key>
+		<string>440</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksGreenTea</string>
+		<key>item</key>
+		<string>抹茶ティーラテ T</string>
+		<key>pricePeso</key>
+		<string>150</string>
+		<key>priceYen</key>
+		<string>430</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Starbucksanything</string>
+		<key>item</key>
+		<string>チャイティーラテ T</string>
+		<key>pricePeso</key>
+		<string>150</string>
+		<key>priceYen</key>
+		<string>420</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Starbucksanything</string>
+		<key>item</key>
+		<string>ティー アイス T</string>
+		<key>pricePeso</key>
+		<string>135</string>
+		<key>priceYen</key>
+		<string>330</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Starbucksanything</string>
+		<key>item</key>
+		<string>ティー ホット T</string>
+		<key>pricePeso</key>
+		<string>135</string>
+		<key>priceYen</key>
+		<string>340</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksCappuccino</string>
+		<key>item</key>
+		<string>カプチーノ T</string>
+		<key>pricePeso</key>
+		<string>130</string>
+		<key>priceYen</key>
+		<string>370</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksCappuccino</string>
+		<key>item</key>
+		<string>カプチーノ G</string>
+		<key>pricePeso</key>
+		<string>145</string>
+		<key>priceYen</key>
+		<string>410</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksCappuccino</string>
+		<key>item</key>
+		<string>カプチーノ V</string>
+		<key>pricePeso</key>
+		<string>160</string>
+		<key>priceYen</key>
+		<string>450</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Starbucksanything</string>
+		<key>item</key>
+		<string>キャラメルフラペチーノ T</string>
+		<key>pricePeso</key>
+		<string>150</string>
+		<key>priceYen</key>
+		<string>470</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksHoippCream</string>
+		<key>item</key>
+		<string>バニラクリームフラペチーノ T</string>
+		<key>pricePeso</key>
+		<string>140</string>
+		<key>priceYen</key>
+		<string>470</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>StarbucksHoippCream</string>
+		<key>item</key>
+		<string>バニラクリームフラペチーノ V</string>
+		<key>pricePeso</key>
+		<string>170</string>
+		<key>priceYen</key>
+		<string>550</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Starbucksanything</string>
+		<key>item</key>
+		<string>コーヒーフラペチーノ T</string>
+		<key>pricePeso</key>
+		<string>150</string>
+		<key>priceYen</key>
+		<string>420</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Starbucksanything</string>
+		<key>item</key>
+		<string>ダークモカチップフラペチーノ® T</string>
+		<key>pricePeso</key>
+		<string>175</string>
+		<key>priceYen</key>
+		<string>490</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>SuperFoodMango</string>
+		<key>item</key>
+		<string>マンゴーパッションフラペチーノ T</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>450</string>
+	</dict>
+</array>
+</plist>

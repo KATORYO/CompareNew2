@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>Fashion-1</string>
+		<key>item</key>
+		<string>ビーチサンダル （街中のディスカウント店）</string>
+		<key>pricePeso</key>
+		<string>500</string>
+		<key>priceYen</key>
+		<string>1490</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Fashion-2</string>
+		<key>item</key>
+		<string>アンダーソン 帽子</string>
+		<key>pricePeso</key>
+		<string>600</string>
+		<key>priceYen</key>
+		<string>2190</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Burger</string>
+		<key>item</key>
+		<string>スポーツ用ハーフパンツ</string>
+		<key>pricePeso</key>
+		<string>550</string>
+		<key>priceYen</key>
+		<string>1490</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Fashion-3</string>
+		<key>item</key>
+		<string>ユニクロ スリムフィット </string>
+		<key>pricePeso</key>
+		<string>990</string>
+		<key>priceYen</key>
+		<string>3229</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Fashion-4</string>
+		<key>item</key>
+		<string>ユニクロ カラージーンズ</string>
+		<key>pricePeso</key>
+		<string>990</string>
+		<key>priceYen</key>
+		<string>3229</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Fashion-4</string>
+		<key>item</key>
+		<string>ユニクロ レギンスパンツ</string>
+		<key>pricePeso</key>
+		<string>990</string>
+		<key>priceYen</key>
+		<string>3229</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Fashion-5</string>
+		<key>item</key>
+		<string>ユニクロ Tシャツ</string>
+		<key>pricePeso</key>
+		<string>390</string>
+		<key>priceYen</key>
+		<string>637</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>SportsWear</string>
+		<key>item</key>
+		<string>Tシャツ （市場）</string>
+		<key>pricePeso</key>
+		<string>100</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+</array>
+</plist>

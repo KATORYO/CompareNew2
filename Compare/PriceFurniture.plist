@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>NoImage-1</string>
+		<key>item</key>
+		<string>ソファー 1人</string>
+		<key>pricePeso</key>
+		<string>1000</string>
+		<key>priceYen</key>
+		<string>7000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>BedClothes-4</string>
+		<key>item</key>
+		<string>ベッド 1人</string>
+		<key>pricePeso</key>
+		<string>1000</string>
+		<key>priceYen</key>
+		<string>7800</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>NoImage-1</string>
+		<key>item</key>
+		<string>スツール プラスチック</string>
+		<key>pricePeso</key>
+		<string>100</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>BedClothes-1</string>
+		<key>item</key>
+		<string>木製4人用　机</string>
+		<key>pricePeso</key>
+		<string>1100</string>
+		<key>priceYen</key>
+		<string>22000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>NoImage-1</string>
+		<key>item</key>
+		<string>いす プラスチック　黒</string>
+		<key>pricePeso</key>
+		<string>200</string>
+		<key>priceYen</key>
+		<string>880</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>NoImage-1</string>
+		<key>item</key>
+		<string>レースカーテン </string>
+		<key>pricePeso</key>
+		<string>100</string>
+		<key>priceYen</key>
+		<string>1500</string>
+	</dict>
+</array>
+</plist>

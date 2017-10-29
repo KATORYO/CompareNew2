@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell2" rowHeight="76" id="aaW-jI-Amq" customClass="CustomTableViewCell2" customModule="Compare" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="76"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="aaW-jI-Amq" id="S9b-3N-RuL">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="75.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L5K-Lh-sGD">
+                        <rect key="frame" x="82" y="1" width="235" height="74"/>
+                        <color key="backgroundColor" red="0.99617452880000001" green="1" blue="0.93788332740000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <fontDescription key="fontDescription" type="italicSystem" pointSize="23"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="4Uv-nY-gNk" customClass="CircleImageForFav" customModule="Compare" customModuleProvider="target">
+                        <rect key="frame" x="8" y="1" width="74" height="74"/>
+                        <color key="backgroundColor" red="0.99617452880000001" green="1" blue="0.93788332740000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="74" id="8vB-6n-bFq"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <color key="backgroundColor" red="1" green="0.99491948490000004" blue="0.8693743384" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="4Uv-nY-gNk" firstAttribute="top" secondItem="L5K-Lh-sGD" secondAttribute="top" id="0mq-vi-Squ"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="L5K-Lh-sGD" secondAttribute="trailing" constant="-5" id="G7R-1P-cu1"/>
+                    <constraint firstItem="4Uv-nY-gNk" firstAttribute="bottom" secondItem="L5K-Lh-sGD" secondAttribute="bottom" id="QNE-Xx-JhT"/>
+                    <constraint firstItem="4Uv-nY-gNk" firstAttribute="top" secondItem="S9b-3N-RuL" secondAttribute="topMargin" constant="-7" id="bBF-4M-Mao"/>
+                    <constraint firstItem="4Uv-nY-gNk" firstAttribute="leading" secondItem="S9b-3N-RuL" secondAttribute="leadingMargin" id="rFd-e6-kbC"/>
+                    <constraint firstItem="4Uv-nY-gNk" firstAttribute="centerY" secondItem="S9b-3N-RuL" secondAttribute="centerY" id="yV3-TA-vmg"/>
+                    <constraint firstItem="L5K-Lh-sGD" firstAttribute="leading" secondItem="4Uv-nY-gNk" secondAttribute="trailing" id="zKe-9d-gwZ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.99617452880000001" green="1" blue="0.93788332740000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="ImageArray" destination="4Uv-nY-gNk" id="QEa-tr-BHw"/>
+                <outlet property="LabelArray" destination="L5K-Lh-sGD" id="FQz-7J-V09"/>
+            </connections>
+            <point key="canvasLocation" x="1919" y="-127"/>
+        </tableViewCell>
+    </objects>
+</document>

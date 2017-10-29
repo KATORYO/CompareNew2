@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>KfcChiken</string>
+		<key>item</key>
+		<string>チキン 1 ピース ※フィリピンはライス付</string>
+		<key>pricePeso</key>
+		<string>72</string>
+		<key>priceYen</key>
+		<string>250</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>McDonalds.BurgerD</string>
+		<key>item</key>
+		<string>チキンフィレサンド</string>
+		<key>pricePeso</key>
+		<string>80</string>
+		<key>priceYen</key>
+		<string>390</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>McDonalds.PotetoS</string>
+		<key>item</key>
+		<string>カーネリングポテト S</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>250</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>KfcChiken</string>
+		<key>item</key>
+		<string>クリスピー 1 ピース ※フィリピン2 ピース+ドリンク</string>
+		<key>pricePeso</key>
+		<string>70</string>
+		<key>priceYen</key>
+		<string>220</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>McDonalds.Nagetto</string>
+		<key>item</key>
+		<string>ナゲット 5 ピース</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>400</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>AnySalada</string>
+		<key>item</key>
+		<string>コールスロー S</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>220</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>AnySalada</string>
+		<key>item</key>
+		<string>サラダ</string>
+		<key>pricePeso</key>
+		<string>45</string>
+		<key>priceYen</key>
+		<string>260</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>AnyIceCoffeeS</string>
+		<key>item</key>
+		<string>コールドリンク S</string>
+		<key>pricePeso</key>
+		<string>26</string>
+		<key>priceYen</key>
+		<string>240</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>AnyDrinkM</string>
+		<key>item</key>
+		<string>コールドリンク M</string>
+		<key>pricePeso</key>
+		<string>34</string>
+		<key>priceYen</key>
+		<string>240</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>AnyOrange</string>
+		<key>item</key>
+		<string>100% オレンジジュース</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>NoImage</string>
+		<key>item</key>
+		<string>チャリティーカーネル貯金箱</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>390</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>AnyRice</string>
+		<key>item</key>
+		<string>ライス</string>
+		<key>pricePeso</key>
+		<string>15</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>kfcPasta</string>
+		<key>item</key>
+		<string>パスタ</string>
+		<key>pricePeso</key>
+		<string>90</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-2</string>
+		<key>item</key>
+		<string>パナソニック 冷蔵庫 2ドア 138L SJ-D14C</string>
+		<key>pricePeso</key>
+		<string>20000</string>
+		<key>priceYen</key>
+		<string>38000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-2</string>
+		<key>item</key>
+		<string>シャープ 冷蔵庫 5ドア 412L </string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>109620</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-3</string>
+		<key>item</key>
+		<string>SONY 薄型テレビ 55インチ 4K BRAVIA</string>
+		<key>pricePeso</key>
+		<string>188999</string>
+		<key>priceYen</key>
+		<string>324772</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-4</string>
+		<key>item</key>
+		<string>SONY 薄型テレビ 24インチ</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>29300</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-1</string>
+		<key>item</key>
+		<string>洗濯機 6kg</string>
+		<key>pricePeso</key>
+		<string>3295</string>
+		<key>priceYen</key>
+		<string>24000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-1</string>
+		<key>item</key>
+		<string>パナソニック 洗濯機 （洗濯乾燥機） 10kg</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>166000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-5</string>
+		<key>item</key>
+		<string>炊飯器</string>
+		<key>pricePeso</key>
+		<string>1595</string>
+		<key>priceYen</key>
+		<string>13000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-6</string>
+		<key>item</key>
+		<string>ブルーレイDVDレコーダー</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>43200</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-6</string>
+		<key>item</key>
+		<string>DVDレコーダー</string>
+		<key>pricePeso</key>
+		<string>990</string>
+		<key>priceYen</key>
+		<string>--</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-7</string>
+		<key>item</key>
+		<string>パナソニック エオリア 6畳 木造和室</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>34990</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Music-1</string>
+		<key>item</key>
+		<string>イヤホン マイク付</string>
+		<key>pricePeso</key>
+		<string>325</string>
+		<key>priceYen</key>
+		<string>1500</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-8</string>
+		<key>item</key>
+		<string>マキタ 掃除機 コードレス 32w</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>13000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-11</string>
+		<key>item</key>
+		<string>SONY ラジオ + CD</string>
+		<key>pricePeso</key>
+		<string>3000</string>
+		<key>priceYen</key>
+		<string>2038</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-10</string>
+		<key>item</key>
+		<string>CANON プリンター TS8030</string>
+		<key>pricePeso</key>
+		<string>--</string>
+		<key>priceYen</key>
+		<string>16200</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>ApplianceTop</string>
+		<key>item</key>
+		<string>デジタル一眼カメラ α6300 ボディのみ</string>
+		<key>pricePeso</key>
+		<string>51299</string>
+		<key>priceYen</key>
+		<string>107784</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>Appliance-9</string>
+		<key>item</key>
+		<string>デジタル一眼カメラ“α”EマウントレンズSEL1018
+デジタル一眼カメラ“α”[Eマウント]用レンズ
+SEL1018</string>
+		<key>pricePeso</key>
+		<string>41360</string>
+		<key>priceYen</key>
+		<string>82080</string>
+	</dict>
+</array>
+</plist>

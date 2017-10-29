@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>camera</key>
+		<string>CarBike-1</string>
+		<key>item</key>
+		<string>トヨタ ハイエース 2004 CBF-TRH200V-RBMDK</string>
+		<key>pricePeso</key>
+		<string>1326000</string>
+		<key>priceYen</key>
+		<string>2200000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBike</string>
+		<key>item</key>
+		<string>トヨタ プリウス 2018 A DAA ZVW51-AHXHB</string>
+		<key>pricePeso</key>
+		<string>1659000</string>
+		<key>priceYen</key>
+		<string>3107455</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBike-1</string>
+		<key>item</key>
+		<string>トヨタ アルファード DBA-AGH35W-PFXQK</string>
+		<key>pricePeso</key>
+		<string>3329000</string>
+		<key>priceYen</key>
+		<string>6716618</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBike-2</string>
+		<key>item</key>
+		<string>トヨタ 86 DBAZN6F2B7 </string>
+		<key>pricePeso</key>
+		<string>1801000</string>
+		<key>priceYen</key>
+		<string>2623320</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBike-3</string>
+		<key>item</key>
+		<string>ホンダ ズーマーX</string>
+		<key>pricePeso</key>
+		<string>86900</string>
+		<key>priceYen</key>
+		<string>243000円</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBike-4</string>
+		<key>item</key>
+		<string>ホンダ CBR250R</string>
+		<key>pricePeso</key>
+		<string>225000</string>
+		<key>priceYen</key>
+		<string>498960円</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBike-4</string>
+		<key>item</key>
+		<string>ホンダ PCX150</string>
+		<key>pricePeso</key>
+		<string>158000</string>
+		<key>priceYen</key>
+		<string>360720円</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBike-5</string>
+		<key>item</key>
+		<string>折りたたみ式自転車 （デパート）</string>
+		<key>pricePeso</key>
+		<string>5440</string>
+		<key>priceYen</key>
+		<string>14000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>CarBikeChild</string>
+		<key>item</key>
+		<string>子ども用自転車 （デパート）</string>
+		<key>pricePeso</key>
+		<string>3000</string>
+		<key>priceYen</key>
+		<string>10000</string>
+	</dict>
+	<dict>
+		<key>camera</key>
+		<string>NoImage</string>
+		<key>item</key>
+		<string>リアボックス （デパート）</string>
+		<key>pricePeso</key>
+		<string>898</string>
+		<key>priceYen</key>
+		<string>3000</string>
+	</dict>
+</array>
+</plist>
